@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "author": "Milla Karjalainen",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-pi-pico-w",
+      "id": "pico",
+      "top": 0,
+      "left": 0,
+      "attrs": { "env": "micropython-20241129-v1.24.1" }
+    },
+    { "type": "wokwi-pir-motion-sensor", "id": "pir1", "top": -120.8, "left": 88.62, "attrs": {} }
+  ],
+  "connections": [
+    [ "pico:3V3", "pir1:VCC", "red", [ "h51.86", "v-3.25" ] ],
+    [ "pico:GP28", "pir1:OUT", "blue", [ "h61.46", "v-3.25" ] ],
+    [ "pir1:GND", "pico:GP20", "black", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
