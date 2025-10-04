@@ -1,6 +1,5 @@
 IoT basics
 
-
 CONTENTS:
   IoT pipeline:
 
