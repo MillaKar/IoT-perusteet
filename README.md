@@ -1,7 +1,7 @@
 IoT basics
 
 CONTENTS:
-  IoT pipeline:
+  \nIoT pipeline:
 
   Lesson 1:
     Ask name
