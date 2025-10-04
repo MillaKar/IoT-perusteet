@@ -1,5 +1,7 @@
 IoT basics  
+
 CONTENTS:  
+
   IoT pipeline:  
 
   Lesson 1:  
@@ -15,10 +17,13 @@ CONTENTS:
     Trafficlights  
     Weather  
     Weather backend  
+    
   Lesson 2:  
     Server  
+    
   Lesson 3:  
     Server  
+    
   Lesson 4:  
     Fetch  
     Webhook  
