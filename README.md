@@ -6,11 +6,13 @@ CONTENTS:
 
   Tehtävät 1:  
     Ask name:  
-      Just a test; asks a name from user and responds depending on the name.
+      Just a test; asks a name from user and responds depending on the name.  
     Blink the led:  
+      Blinks the onboar led on and off.  
+    Blink the external led:  
+      Blinks the led connected to the board.  
+    Burglary alarm:  
       
-    Blink the external led  
-    Burglary alarm  
     Interrupt  
     Lcd-screen  
     Led on by pressing button  
