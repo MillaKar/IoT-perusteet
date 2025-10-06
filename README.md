@@ -19,7 +19,7 @@ CONTENTS:
     Weather backend: Next version of the weather station. DHT-22 connected to the board. Connects to the wi-fi and send temperature and humidity data to Thingspeak channels.  
     
   Tehtävät 2:  
-    Server  
+    Server
     
   Tehtävät 3:  
     Server: A simple Node.js REST API built using Express and SQLite3. It serves as a minimal backend service for managing users and retrieving sensor data.  
