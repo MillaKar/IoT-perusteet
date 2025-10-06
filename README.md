@@ -25,6 +25,6 @@ CONTENTS:
     Server: A simple Node.js REST API built using Express and SQLite3. It serves as a minimal backend service for managing users and retrieving sensor data.  
     
   Tehtävät 4:  
-    Fetch  
+    Fetch: fetches real-time temperature and humidity data from a public ThingSpeak channel using the Fetch API. It processes the data and displays it in the browser.  
     Webhook  
     Websocket  
