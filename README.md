@@ -4,7 +4,7 @@ IoT Basics
 
 CONTENTS:  
 
-  IoT pipeline: Simple full pipeline weather station that uses Wokwi, Raspberry Pi-Pico (Wi-fi), DHT-22, Thingspeak (Channel, ThingHTTP, React), GoogleChart and Discord webhook to notify user about too  high temperature. Screenshots present how it looks at work, also first webhook funcionality was tested in webhook.net.  
+  IoT pipeline: Simple weather station pipeline that uses Wokwi, Raspberry Pi-Pico (Wi-fi), DHT-22, Thingspeak (Channel, ThingHTTP, React), GoogleChart and Discord webhook to notify user about too high temperature. Screenshots present how it looks at work, also first webhook funcionality was tested in webhook.net.  
 
   TEHTÄVÄT1:   
     *Ask name*: Just a test; asks a name from user and responds depending on the name.  
