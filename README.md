@@ -22,7 +22,7 @@ CONTENTS:
     Server  
     
   Tehtävät 3:  
-    Server  
+    Server: A simple Node.js REST API built using Express and SQLite3. It serves as a minimal backend service for managing users and retrieving sensor data.  
     
   Tehtävät 4:  
     Fetch  
