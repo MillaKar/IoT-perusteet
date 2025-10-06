@@ -26,5 +26,5 @@ CONTENTS:
     
   Tehtävät 4:  
     Fetch: fetches real-time temperature and humidity data from a public ThingSpeak channel using the Fetch API. It processes the data and displays it in the browser.  
-    Webhook  
+    Webhook: A simple POST endpoint that forwards messages to a Discord webhook. It's useful for triggering Discord alerts or logging events from other systems.
     Websocket  
