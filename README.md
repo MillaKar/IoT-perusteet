@@ -12,7 +12,7 @@ CONTENTS:
     Blink the external led:  
       Blinks the led connected to the board.  
     Burglary alarm:  
-      
+      Detects motion with 
     Interrupt  
     Lcd-screen  
     Led on by pressing button  
