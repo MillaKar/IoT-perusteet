@@ -12,8 +12,9 @@ CONTENTS:
     Blink the external led:  
       Blinks the led connected to the board.  
     Burglary alarm:  
-      Detects motion with 
-    Interrupt  
+      Detects motion with PIR-sensor, alerts when motion is detected.
+    Interrupt:  
+      
     Lcd-screen  
     Led on by pressing button  
     Optimized blink  
