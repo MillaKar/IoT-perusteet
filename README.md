@@ -26,8 +26,9 @@ CONTENTS:
     Trafficlights:  
       Basic trafficlights with a button to interrupt the normal flow of the lights. When pressing the button down, the red one stays on and the buzzer connected to the board makes a sound.
     Weather:  
+      First basic version of weather station; DHT-22 connected to the board. Informs user about current temperature and humidity.  
+    Weather backend:  
       
-    Weather backend  
     
   Tehtävät 2:  
     Server  
