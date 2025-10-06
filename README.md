@@ -22,8 +22,9 @@ CONTENTS:
     Optimized blink:  
       Optimized on board led blink.  
     Test:  
+      Just a test; prints number from 1 to 10.  
+    Trafficlights:  
       
-    Trafficlights  
     Weather  
     Weather backend  
     
