@@ -6,7 +6,7 @@ CONTENTS:
 
   IoT pipeline: Simple full pipeline weather station that uses Wokwi, Raspberry Pi-Pico (Wi-fi), DHT-22, Thingspeak (Channel, ThingHTTP, React), GoogleChart and Discord webhook to notify user about too  high temperature. Screenshots present how it looks at work, also first webhook funcionality was tested in webhook.net.  
 
-  Tehtävät 1:  
+  TEHTÄVÄT1:   
     *Ask name*: Just a test; asks a name from user and responds depending on the name.  
     *Blink the led*: Blinks the onboar led on and off.  
     *Blink the external led*: Blinks the led connected to the board.  
@@ -20,13 +20,13 @@ CONTENTS:
     *Weather*: First basic version of weather station; DHT-22 connected to the board. Informs user about current temperature and humidity.   
     *Weather backend*: Next version of the weather station. DHT-22 connected to the board. Connects to the wi-fi and send temperature and humidity data to Thingspeak channels.  
     
-  Tehtävät 2:  
+  TEHTÄVÄT2:  
     *Server*: Minimal Express-based API server that simulates sensor data. It runs on port 3000 and provides a single endpoint.  
     
-  Tehtävät 3:  
+  TEHTÄVÄT3:  
     *Server*: Simple Node.js REST API built using Express and SQLite3. It serves as a minimal backend service for managing users and retrieving sensor data.  
     
-  Tehtävät 4:  
+  TEHTÄVÄT4:  
     *Fetch*: Fetches real-time temperature and humidity data from a public ThingSpeak channel using the Fetch API. It processes the data and displays it in the browser.  
     *Webhook*: Simple POST endpoint that forwards messages to a Discord webhook. It's useful for triggering Discord alerts or logging events from other systems.  
     *Websocket*: Simple WebSocket server built with Node.js using the ws library. It listens for client connections on port 3000, receives messages, and sends them back (echoes them) to the client.
