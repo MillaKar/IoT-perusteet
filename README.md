@@ -20,8 +20,9 @@ CONTENTS:
     Led on by pressing button:  
       The led goes on by pressing the button connected to the board.  
     Optimized blink:  
+      Optimized on board led blink.  
+    Test:  
       
-    Test  
     Trafficlights  
     Weather  
     Weather backend  
