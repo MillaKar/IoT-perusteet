@@ -14,10 +14,13 @@ CONTENTS:
     Burglary alarm:  
       Detects motion with PIR-sensor, alerts when motion is detected.
     Interrupt:  
-      Measures reaction time, led goes off randomly and user presses the button attached to the board. LCD-screen shows reaction time.
-    Lcd-screen  
-    Led on by pressing button  
-    Optimized blink  
+      Measures reaction time, led goes off randomly and user presses the button attached to the board. LCD-screen shows reaction time.  
+    Lcd-screen:  
+      Prints "Hello student!" on LCD-screen that's connected to the board.  
+    Led on by pressing button:  
+      The led goes on by pressing the button connected to the board.  
+    Optimized blink:  
+      
     Test  
     Trafficlights  
     Weather  
