@@ -24,8 +24,9 @@ CONTENTS:
     Test:  
       Just a test; prints number from 1 to 10.  
     Trafficlights:  
+      Basic trafficlights with a button to interrupt the normal flow of the lights. When pressing the button down, the red one stays on and the buzzer connected to the board makes a sound.
+    Weather:  
       
-    Weather  
     Weather backend  
     
   Tehtävät 2:  
