@@ -19,12 +19,12 @@ CONTENTS:
     Weather backend: Next version of the weather station. DHT-22 connected to the board. Connects to the wi-fi and send temperature and humidity data to Thingspeak channels.  
     
   Tehtävät 2:  
-    Server: A minimal Express-based API server that simulates sensor data. It runs on port 3000 and provides a single endpoint.  
+    Server: Minimal Express-based API server that simulates sensor data. It runs on port 3000 and provides a single endpoint.  
     
   Tehtävät 3:  
-    Server: A simple Node.js REST API built using Express and SQLite3. It serves as a minimal backend service for managing users and retrieving sensor data.  
+    Server: Simple Node.js REST API built using Express and SQLite3. It serves as a minimal backend service for managing users and retrieving sensor data.  
     
   Tehtävät 4:  
-    Fetch: fetches real-time temperature and humidity data from a public ThingSpeak channel using the Fetch API. It processes the data and displays it in the browser.  
-    Webhook: A simple POST endpoint that forwards messages to a Discord webhook. It's useful for triggering Discord alerts or logging events from other systems.
-    Websocket  
+    Fetch: Fetches real-time temperature and humidity data from a public ThingSpeak channel using the Fetch API. It processes the data and displays it in the browser.  
+    Webhook: Simple POST endpoint that forwards messages to a Discord webhook. It's useful for triggering Discord alerts or logging events from other systems.
+    Websocket: Simple WebSocket server built with Node.js using the ws library. It listens for client connections on port 3000, receives messages, and sends them back (echoes them) to the client.
