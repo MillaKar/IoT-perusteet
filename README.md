@@ -1,10 +1,10 @@
-IoT basics  
+IoT Basics  
 
 CONTENTS:  
 
   IoT pipeline:  
 
-  Lesson 1:  
+  Tehtävät 1:  
     Ask name  
     Blink the led  
     Blink the external led  
@@ -18,13 +18,13 @@ CONTENTS:
     Weather  
     Weather backend  
     
-  Lesson 2:  
+  Tehtävät 2:  
     Server  
     
-  Lesson 3:  
+  Tehtävät 3:  
     Server  
     
-  Lesson 4:  
+  Tehtävät 4:  
     Fetch  
     Webhook  
     Websocket  
