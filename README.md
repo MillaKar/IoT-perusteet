@@ -14,7 +14,7 @@ CONTENTS:
     Burglary alarm:  
       Detects motion with PIR-sensor, alerts when motion is detected.
     Interrupt:  
-      
+      Measures reaction time, led goes off randomly and user presses the button attached to the board. LCD-screen shows reaction time.
     Lcd-screen  
     Led on by pressing button  
     Optimized blink  
