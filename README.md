@@ -28,7 +28,7 @@ CONTENTS:
     Weather:  
       First basic version of weather station; DHT-22 connected to the board. Informs user about current temperature and humidity.  
     Weather backend:  
-      
+      Next version of the weather station. DHT-22 connected to the board. Connects to the wi-fi and send temperature and humidity data to Thingspeak channels. 
     
   Tehtävät 2:  
     Server  
